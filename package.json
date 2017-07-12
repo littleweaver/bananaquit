@@ -1,0 +1,22 @@
+{
+  "name": "bananaquit",
+  "version": "0.0.0",
+  "description": "A support and component library for React in the browser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/littleweaver/bananaquit.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Little Weaver Web Development <hello@littleweaverweb.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/littleweaver/bananaquit/issues"
+  },
+  "homepage": "https://github.com/littleweaver/bananaquit#readme"
+}
